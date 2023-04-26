@@ -1,5 +1,6 @@
 <html>
 <body>
 <h2>this is master branch <\h2>
+<h2>this is feature and merging into develop branch <\h2>
 <\body>
 <\html>
